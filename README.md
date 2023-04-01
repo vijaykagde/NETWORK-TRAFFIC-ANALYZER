@@ -8,7 +8,6 @@ Requirement
 Python 3.x
 Privileged/Administrative Rights
 Linux Operating System
-Suport
 
 Suport IPv6 : ICMP ,UDP, TCP
 Can filter
