@@ -1,4 +1,4 @@
-# NETWORK-TRAFFIC-ANALYZER
+# Network-Traffic-Analyzer
 Python-Network Traffic Analyzer Overview
 
 Network Traffic Analyzer created in Python 3. Allows you to monitor traffic running through local network. Allows the user to be able to view Source of the packets, Target host and the type of protocol used e.g. UDP/TCP.along with this, Along with this, our analyzer will also detect various kinds of network attacks.
